@@ -1,4 +1,4 @@
-# shabbatcom
+# Shabbatcom
 
 The Shabbat.com issue tracker.
 
